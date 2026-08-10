@@ -49,4 +49,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/snehasingh979/LeetCode/tree/master/0053-maximum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/snehasingh979/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
