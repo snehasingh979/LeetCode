@@ -53,4 +53,8 @@
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/snehasingh979/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/snehasingh979/LeetCode/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
