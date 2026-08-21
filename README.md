@@ -10,6 +10,7 @@
 | [0496-next-greater-element-i](https://github.com/snehasingh979/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/snehasingh979/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/snehasingh979/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/snehasingh979/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1470-shuffle-the-array](https://github.com/snehasingh979/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1640-check-array-formation-through-concatenation](https://github.com/snehasingh979/LeetCode/tree/master/1640-check-array-formation-through-concatenation) |
 | [1720-decode-xored-array](https://github.com/snehasingh979/LeetCode/tree/master/1720-decode-xored-array) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/snehasingh979/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/snehasingh979/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/snehasingh979/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
