@@ -6,6 +6,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/snehasingh979/LeetCode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/snehasingh979/LeetCode/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/snehasingh979/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/snehasingh979/LeetCode/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/snehasingh979/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/snehasingh979/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -19,6 +20,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/snehasingh979/LeetCode/tree/master/0136-single-number) |
 | [1720-decode-xored-array](https://github.com/snehasingh979/LeetCode/tree/master/1720-decode-xored-array) |
 | [2527-find-xor-beauty-of-array](https://github.com/snehasingh979/LeetCode/tree/master/2527-find-xor-beauty-of-array) |
 ## Hash Table
