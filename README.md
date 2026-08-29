@@ -21,6 +21,7 @@
 | [1720-decode-xored-array](https://github.com/snehasingh979/LeetCode/tree/master/1720-decode-xored-array) |
 | [1920-build-array-from-permutation](https://github.com/snehasingh979/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2527-find-xor-beauty-of-array](https://github.com/snehasingh979/LeetCode/tree/master/2527-find-xor-beauty-of-array) |
+| [3379-transformed-array](https://github.com/snehasingh979/LeetCode/tree/master/3379-transformed-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/snehasingh979/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [3379-transformed-array](https://github.com/snehasingh979/LeetCode/tree/master/3379-transformed-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
