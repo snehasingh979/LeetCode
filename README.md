@@ -51,6 +51,7 @@
 | [0061-rotate-list](https://github.com/snehasingh979/LeetCode/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/snehasingh979/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/snehasingh979/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/snehasingh979/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/snehasingh979/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/snehasingh979/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Binary Search
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/snehasingh979/LeetCode/tree/master/0020-valid-parentheses) |
+| [0344-reverse-string](https://github.com/snehasingh979/LeetCode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/snehasingh979/LeetCode/tree/master/0520-detect-capital) |
 ## Recursion
 |  |
