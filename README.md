@@ -17,6 +17,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/snehasingh979/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/snehasingh979/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1470-shuffle-the-array](https://github.com/snehasingh979/LeetCode/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/snehasingh979/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1640-check-array-formation-through-concatenation](https://github.com/snehasingh979/LeetCode/tree/master/1640-check-array-formation-through-concatenation) |
 | [1720-decode-xored-array](https://github.com/snehasingh979/LeetCode/tree/master/1720-decode-xored-array) |
 | [1920-build-array-from-permutation](https://github.com/snehasingh979/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -120,4 +121,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/snehasingh979/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/snehasingh979/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
