@@ -94,6 +94,7 @@
 | [0344-reverse-string](https://github.com/snehasingh979/LeetCode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/snehasingh979/LeetCode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/snehasingh979/LeetCode/tree/master/0709-to-lower-case) |
+| [1678-goal-parser-interpretation](https://github.com/snehasingh979/LeetCode/tree/master/1678-goal-parser-interpretation) |
 ## Recursion
 |  |
 | ------- |
