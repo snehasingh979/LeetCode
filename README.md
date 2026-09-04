@@ -37,6 +37,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/snehasingh979/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/snehasingh979/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/snehasingh979/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/snehasingh979/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/snehasingh979/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1640-check-array-formation-through-concatenation](https://github.com/snehasingh979/LeetCode/tree/master/1640-check-array-formation-through-concatenation) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/snehasingh979/LeetCode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/snehasingh979/LeetCode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/snehasingh979/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/snehasingh979/LeetCode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/snehasingh979/LeetCode/tree/master/0709-to-lower-case) |
 | [1678-goal-parser-interpretation](https://github.com/snehasingh979/LeetCode/tree/master/1678-goal-parser-interpretation) |
@@ -129,4 +131,12 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/snehasingh979/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/snehasingh979/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/snehasingh979/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
