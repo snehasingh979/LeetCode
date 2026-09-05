@@ -96,6 +96,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/snehasingh979/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/snehasingh979/LeetCode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/snehasingh979/LeetCode/tree/master/0709-to-lower-case) |
+| [1021-remove-outermost-parentheses](https://github.com/snehasingh979/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/snehasingh979/LeetCode/tree/master/1678-goal-parser-interpretation) |
 ## Recursion
 |  |
@@ -106,10 +107,12 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/snehasingh979/LeetCode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/snehasingh979/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1021-remove-outermost-parentheses](https://github.com/snehasingh979/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/snehasingh979/LeetCode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/snehasingh979/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
