@@ -6,4 +6,3 @@ class Solution(object):
         """
         result = " ".join(s.split()[::-1])
         return result
-        
