@@ -46,6 +46,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/snehasingh979/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/snehasingh979/LeetCode/tree/master/0268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/snehasingh979/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2527-find-xor-beauty-of-array](https://github.com/snehasingh979/LeetCode/tree/master/2527-find-xor-beauty-of-array) |
 ## Two Pointers
 |  |
@@ -100,6 +101,7 @@
 | [0709-to-lower-case](https://github.com/snehasingh979/LeetCode/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/snehasingh979/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/snehasingh979/LeetCode/tree/master/1678-goal-parser-interpretation) |
+| [1903-largest-odd-number-in-string](https://github.com/snehasingh979/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -144,4 +146,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/snehasingh979/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/snehasingh979/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
