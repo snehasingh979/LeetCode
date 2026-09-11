@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/snehasingh979/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/snehasingh979/LeetCode/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/snehasingh979/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/snehasingh979/LeetCode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/snehasingh979/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehasingh979/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -36,6 +37,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/snehasingh979/LeetCode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/snehasingh979/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/snehasingh979/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/snehasingh979/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -73,6 +75,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/snehasingh979/LeetCode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/snehasingh979/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/snehasingh979/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/snehasingh979/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -96,6 +99,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/snehasingh979/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/snehasingh979/LeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/snehasingh979/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/snehasingh979/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/snehasingh979/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/snehasingh979/LeetCode/tree/master/0344-reverse-string) |
