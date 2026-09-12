@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehasingh979/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/snehasingh979/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/snehasingh979/LeetCode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/snehasingh979/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/snehasingh979/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/snehasingh979/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/snehasingh979/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/snehasingh979/LeetCode/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/snehasingh979/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/snehasingh979/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/snehasingh979/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/snehasingh979/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -76,6 +78,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/snehasingh979/LeetCode/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/snehasingh979/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/snehasingh979/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/snehasingh979/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/snehasingh979/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
