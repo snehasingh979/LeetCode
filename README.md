@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/snehasingh979/LeetCode/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/snehasingh979/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/snehasingh979/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/snehasingh979/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/snehasingh979/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/snehasingh979/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/snehasingh979/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/snehasingh979/LeetCode/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/snehasingh979/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2527-find-xor-beauty-of-array](https://github.com/snehasingh979/LeetCode/tree/master/2527-find-xor-beauty-of-array) |
@@ -61,6 +63,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/snehasingh979/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/snehasingh979/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/snehasingh979/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/snehasingh979/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/snehasingh979/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/snehasingh979/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/snehasingh979/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -143,6 +146,7 @@
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/snehasingh979/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/snehasingh979/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
