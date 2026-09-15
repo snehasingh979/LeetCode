@@ -44,6 +44,7 @@
 | [0242-valid-anagram](https://github.com/snehasingh979/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/snehasingh979/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/snehasingh979/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/snehasingh979/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/snehasingh979/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/snehasingh979/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/snehasingh979/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -112,6 +113,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/snehasingh979/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/snehasingh979/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/snehasingh979/LeetCode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/snehasingh979/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/snehasingh979/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/snehasingh979/LeetCode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/snehasingh979/LeetCode/tree/master/0709-to-lower-case) |
@@ -162,6 +164,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/snehasingh979/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/snehasingh979/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Greedy
 |  |
