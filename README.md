@@ -19,6 +19,7 @@
 | [0496-next-greater-element-i](https://github.com/snehasingh979/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/snehasingh979/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/snehasingh979/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/snehasingh979/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/snehasingh979/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1470-shuffle-the-array](https://github.com/snehasingh979/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/snehasingh979/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -48,6 +49,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/snehasingh979/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/snehasingh979/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/snehasingh979/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/snehasingh979/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1640-check-array-formation-through-concatenation](https://github.com/snehasingh979/LeetCode/tree/master/1640-check-array-formation-through-concatenation) |
 ## Math
 |  |
@@ -156,6 +158,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/snehasingh979/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/snehasingh979/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Queue
 |  |
