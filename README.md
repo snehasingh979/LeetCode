@@ -57,6 +57,7 @@
 | [0189-rotate-array](https://github.com/snehasingh979/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/snehasingh979/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/snehasingh979/LeetCode/tree/master/0268-missing-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/snehasingh979/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/snehasingh979/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2527-find-xor-beauty-of-array](https://github.com/snehasingh979/LeetCode/tree/master/2527-find-xor-beauty-of-array) |
 ## Two Pointers
@@ -106,6 +107,7 @@
 | [0061-rotate-list](https://github.com/snehasingh979/LeetCode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/snehasingh979/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0707-design-linked-list](https://github.com/snehasingh979/LeetCode/tree/master/0707-design-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/snehasingh979/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
 | ------- |
