@@ -54,6 +54,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/snehasingh979/LeetCode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/snehasingh979/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/snehasingh979/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/snehasingh979/LeetCode/tree/master/0268-missing-number) |
@@ -103,6 +104,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/snehasingh979/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/snehasingh979/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/snehasingh979/LeetCode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/snehasingh979/LeetCode/tree/master/0092-reverse-linked-list-ii) |
@@ -128,6 +130,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/snehasingh979/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/snehasingh979/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 ## Stack
 |  |
