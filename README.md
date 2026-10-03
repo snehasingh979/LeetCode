@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/snehasingh979/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/snehasingh979/LeetCode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/snehasingh979/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/snehasingh979/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/snehasingh979/LeetCode/tree/master/0268-missing-number) |
