@@ -107,6 +107,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/snehasingh979/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/snehasingh979/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/snehasingh979/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/snehasingh979/LeetCode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/snehasingh979/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0707-design-linked-list](https://github.com/snehasingh979/LeetCode/tree/master/0707-design-linked-list) |
@@ -133,6 +134,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/snehasingh979/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/snehasingh979/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/snehasingh979/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 ## Stack
 |  |
 | ------- |
