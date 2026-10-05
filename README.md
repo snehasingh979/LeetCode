@@ -75,6 +75,7 @@
 | [0344-reverse-string](https://github.com/snehasingh979/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/snehasingh979/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/snehasingh979/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/snehasingh979/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/snehasingh979/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0707-design-linked-list](https://github.com/snehasingh979/LeetCode/tree/master/0707-design-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/snehasingh979/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/snehasingh979/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## String
 |  |
 | ------- |
