@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/snehasingh979/LeetCode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/snehasingh979/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/snehasingh979/LeetCode/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/snehasingh979/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/snehasingh979/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehasingh979/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/snehasingh979/LeetCode/tree/master/0136-single-number) |
@@ -31,6 +32,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/snehasingh979/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/snehasingh979/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/snehasingh979/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/snehasingh979/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -192,4 +194,8 @@
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/snehasingh979/LeetCode/tree/master/0707-design-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/snehasingh979/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
